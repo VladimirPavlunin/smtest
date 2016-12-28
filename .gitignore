@@ -258,3 +258,5 @@ StructureMapDemo/bin/*
 
 *.dll
 *.pdb
+
+testFile.txt
