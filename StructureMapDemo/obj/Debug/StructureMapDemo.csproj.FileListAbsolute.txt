@@ -15,8 +15,12 @@ D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMapDemo.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMapDemo.pdb
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Antlr3.Runtime.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Practices.ServiceLocation.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Web.Infrastructure.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Newtonsoft.Json.dll
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMap.dll
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMap.Net4.dll
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMap.Web.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Net.Http.Formatting.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Helpers.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Http.dll
@@ -27,8 +31,14 @@ D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Razor.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.WebPages.Deployment.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.WebPages.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.WebPages.Razor.dll
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\WebActivatorEx.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\WebGrease.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMap.xml
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMap.Web.pdb
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMap.Web.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Helpers.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Mvc.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Optimization.xml
@@ -41,6 +51,6 @@ D:\Projects\StructureMapDemo\StructureMapDemo\bin\Newtonsoft.Json.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Net.Http.Formatting.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Http.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Http.WebHost.xml
-D:\Projects\StructureMapDemo\StructureMapDemo\obj\Debug\StructureMapDemo.csprojResolveAssemblyReference.cache
 D:\Projects\StructureMapDemo\StructureMapDemo\obj\Debug\StructureMapDemo.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\obj\Debug\StructureMapDemo.pdb
+D:\Projects\StructureMapDemo\StructureMapDemo\obj\Debug\StructureMapDemo.csprojResolveAssemblyReference.cache

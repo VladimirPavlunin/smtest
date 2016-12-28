@@ -3,13 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using StructureMapDemo.Services;
 
 namespace StructureMapDemo.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IWorker _worker;
+
+        public HomeController(IWorker worker)
+        {
+            _worker = worker;
+        }
+
         public ActionResult Index()
         {
+            _worker.DoWork();
             return View();
         }
 
