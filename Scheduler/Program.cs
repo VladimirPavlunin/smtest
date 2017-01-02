@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using Resources;
 
 namespace Scheduler
@@ -10,7 +11,8 @@ namespace Scheduler
             Console.WriteLine("web job started");
             while (true)
             {
-                
+                Console.WriteLine("Hey from job");
+                Thread.Sleep(1000);
             }
         }
     }
