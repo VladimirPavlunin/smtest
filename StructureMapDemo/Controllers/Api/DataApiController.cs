@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Web.Http;
+using Common;
+using Resources;
 using StructureMapDemo.Filters;
 using StructureMapDemo.Services;
 
@@ -17,8 +19,8 @@ namespace StructureMapDemo.Controllers.Api
         [HttpGet]
         public Person GetPerson()
         {
-            throw new Exception("Test exception");
-            return new Person { Name = "Ivan", Age = 28 };
+            var building = new Building();
+            return new Person { Name = strings.Name, Age = 28 };
         }
     }
 

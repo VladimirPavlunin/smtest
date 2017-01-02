@@ -14,6 +14,7 @@ D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMapDemo.dll.config
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMapDemo.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\StructureMapDemo.pdb
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Antlr3.Runtime.dll
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\Common.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Practices.ServiceLocation.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Web.Infrastructure.dll
@@ -33,6 +34,7 @@ D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.WebPages.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.WebPages.Razor.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\WebActivatorEx.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\WebGrease.dll
+D:\Projects\StructureMapDemo\StructureMapDemo\bin\Common.pdb
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Practices.ServiceLocation.pdb
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\Microsoft.Practices.ServiceLocation.xml
@@ -53,4 +55,3 @@ D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Http.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\bin\System.Web.Http.WebHost.xml
 D:\Projects\StructureMapDemo\StructureMapDemo\obj\Debug\StructureMapDemo.dll
 D:\Projects\StructureMapDemo\StructureMapDemo\obj\Debug\StructureMapDemo.pdb
-D:\Projects\StructureMapDemo\StructureMapDemo\obj\Debug\StructureMapDemo.csprojResolveAssemblyReference.cache
