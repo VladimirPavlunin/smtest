@@ -44,6 +44,7 @@
       <DependentUpon>strings.resx</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Building.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -52,6 +53,8 @@
     <Content Include="App_GlobalResources\strings.resx">
       <Generator>GlobalResourceProxyGenerator</Generator>
       <LastGenOutput>strings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

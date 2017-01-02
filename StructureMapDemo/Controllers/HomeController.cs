@@ -10,14 +10,17 @@ namespace StructureMapDemo.Controllers
     public class HomeController : Controller
     {
         private readonly IWorker _worker;
+        private readonly IFaillingService _faillingService;
 
-        public HomeController(IWorker worker)
+        public HomeController(IWorker worker, IFaillingService faillingService)
         {
             _worker = worker;
+            _faillingService = faillingService;
         }
 
         public ActionResult Index()
         {
+            _faillingService.Hey();
             _worker.DoWork();
             return View();
         }
