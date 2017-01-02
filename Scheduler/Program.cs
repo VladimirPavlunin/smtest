@@ -7,7 +7,11 @@ namespace Scheduler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(strings.Name);
+            Console.WriteLine("web job started");
+            while (true)
+            {
+                
+            }
         }
     }
 }
