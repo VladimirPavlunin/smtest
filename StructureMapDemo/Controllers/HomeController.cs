@@ -10,7 +10,7 @@ namespace StructureMapDemo.Controllers
     public class HomeController : Controller
     {
         private readonly IWorker _worker;
-        //private readonly IFaillingService _faillingService;
+        private readonly IFaillingService _faillingService;
 
         public HomeController(IWorker worker, IFaillingService faillingService)
         {
